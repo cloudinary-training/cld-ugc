@@ -3,8 +3,8 @@ const cloudinary = require('cloudinary').v2;
 
 // upload an image and specify the cld-fashion model for content analysis
 cloudinary.uploader
-  .upload('./assets/fashion-athena.jpg', {
-    public_id: 'fashion-athena',
+  .upload('./assets/model-with-bangs.jpg', {
+    public_id: 'fashionista',
     detection: 'cld-fashion',
     auto_tagging: '0.6',  //default 0.5
     overwrite: true,
