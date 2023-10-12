@@ -76,7 +76,7 @@ You should see your cloud name and API key reported.  Keep your API_SECRET a sec
 Example: run image upload script in optimization directory
 
 ```bash
-node optimization/images/upload.js
+node xxx-placeholder/images/upload.js
 ```
 
 ## Credits 
