@@ -79,6 +79,16 @@ Example: run image upload script in optimization directory
 node xxx-placeholder/images/upload.js
 ```
 
+
+### Video Tutorial
+You can find a [video tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) in the Cloudinary Documentation that covers Node.js setup and upload to your Cloudinary cloud.
+
+You can find a [video tutorial:](https://cloudinary.com/documentation/create_upload_preset_tutorial) in the Cloudinary Documentation that walks you through the steps of creating signed upload presets using the Admin API.
+
+### Upload Presets Docs
+Additional information about upload presets from the docs [upload presets docs:](https://cloudinary.com/documentation/upload_presets)
+
+
 ## Credits 
 
 ## assets/images  
