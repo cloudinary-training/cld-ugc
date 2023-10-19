@@ -1,6 +1,8 @@
 require("dotenv").config();
 const cloudinary = require("cloudinary").v2;
 
+
+// this could be for an avatar creation for a social app
 cloudinary.api.create_upload_preset({
     name: "profile-preset",
     tags: "employees, faces, profile",

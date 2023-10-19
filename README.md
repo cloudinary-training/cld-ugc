@@ -95,3 +95,7 @@ Additional information about upload presets from the docs [upload presets docs:]
 
 
 person-with-glasses.jpg [Photo by Daniel Xavier:](https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/)
+
+Photo by Andrea Piacquadio from Pexels: https://www.pexels.com/photo/woman-in-collared-shirt-774909/
+
+Photo by Ganimat Pashazade from Pexels: https://www.pexels.com/photo/baby-in-white-and-blue-jacket-lying-on-snow-covered-ground-8882288/
