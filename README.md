@@ -91,11 +91,16 @@ Additional information about upload presets from the docs [upload presets docs:]
 
 ## Credits 
 
-## assets/images  
+## assets
 
+person-with-glasses.jpg: [Photo by Daniel Xavier:](https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/)
 
-person-with-glasses.jpg [Photo by Daniel Xavier:](https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/)
+janedoe.jpg: [Photo by Andrea Piacquadio from Pexels](https://www.pexels.com/photo/woman-in-collared-shirt-774909/)
 
-Photo by Andrea Piacquadio from Pexels: https://www.pexels.com/photo/woman-in-collared-shirt-774909/
+baby.jpg: [Photo by Ganimat Pashazade from Pexels](https://www.pexels.com/photo/baby-in-white-and-blue-jacket-lying-on-snow-covered-ground-8882288/)
 
-Photo by Ganimat Pashazade from Pexels: https://www.pexels.com/photo/baby-in-white-and-blue-jacket-lying-on-snow-covered-ground-8882288/
+uno-cig.jpg: [Photo by Pavel Danilyuk from Pexels](https://www.pexels.com/photo/burned-cigarette-butts-in-a-saucer-8551147/)
+
+koala.jpg: [Video by Valeriia Miller from Pexels](https://www.pexels.com/video/koala-eating-leaves-from-a-branch-6040389/)
+
+hot-tub.mp4: [Video by Ron Lach from Pexels](https://www.pexels.com/video/a-handsome-man-inside-a-jacuzzi-8844947/)
