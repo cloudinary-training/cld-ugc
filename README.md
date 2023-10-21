@@ -101,6 +101,8 @@ baby.jpg: [Photo by Ganimat Pashazade from Pexels](https://www.pexels.com/photo/
 
 uno-cig.jpg: [Photo by Pavel Danilyuk from Pexels](https://www.pexels.com/photo/burned-cigarette-butts-in-a-saucer-8551147/)
 
+cheeseburger.jpg: [Photo by Valeria Boltneva from Pexels](https://www.pexels.com/photo/close-up-photo-of-burger-1639562/)
+
 koala.jpg: [Video by Valeriia Miller from Pexels](https://www.pexels.com/video/koala-eating-leaves-from-a-branch-6040389/)
 
 hot-tub.mp4: [Video by Ron Lach from Pexels](https://www.pexels.com/video/a-handsome-man-inside-a-jacuzzi-8844947/)
