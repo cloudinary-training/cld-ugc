@@ -15,10 +15,10 @@ cloudinary.uploader
 .then(result=>console.log(result));
 
 
-cloudinary.uploader
-.upload("./assets/blurry-sneakers.jpg",
-  { quality_analysis: true})
-.then(result=>console.log(result));
+// cloudinary.uploader
+// .upload("./assets/blurry-sneakers.jpg",
+//   { quality_analysis: true})
+// .then(result=>console.log(result));
 
 
 // DOCS: https://cloudinary.com/documentation/analysis_on_upload#evaluating_and_modifying_upload_parameters
@@ -32,14 +32,19 @@ cloudinary.uploader
 //The quality_score, quality_analysis.color_score and quality_analysis.pixel_score fields can be used in the search method when
 // quality_analysis is set to true in the upload request or an upload preset. 
 
-cloudinary.uploader
-.upload("./assets/headshot-blurry.jpg",
-  { quality_analysis: true,
-    eval: "if (resource_info.quality_analysis.focus < 1) { upload_options['tags'] = 'blurry'}" })
-.then(result=>console.log(result));
+// cloudinary.uploader
+// .upload("./assets/headshot-blurry.jpg",
+//   { quality_analysis: true,
+//     eval: "if (resource_info.quality_analysis.focus < 1) { upload_options['tags'] = 'blurry'}" })
+// .then(result=>console.log(result));
 
 
 // Another option is to evaluate the accessibility analysis score upon upload.
 // DOCS: https://cloudinary.com/documentation/analysis_on_upload#accessibility_analysis
 // Analyzing your images for accessibility can help you to choose the best images for people with color blindness.
+
+// cloudinary.uploader
+// .upload("./assets/sneakers.jpg",
+//   { accessibility_analysis: true })
+// .then(result=>console.log(result));
 
