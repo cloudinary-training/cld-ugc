@@ -96,8 +96,8 @@ node upload/local-upload.js
 
 ### Introduction to Material:
 
-There is an accompanying slide deck that walks us all through the steps.
-- [Slide Deck](https://docs.google.com/presentation/d/1nEprgb7jLQ-g7r9vU9DvAWpjhXBLckw_3n3KWrf78L8/edit#slide=id.g290ff1d21f2_1_2898)
+There is an accompanying [slide deck](https://docs.google.com/presentation/d/1nEprgb7jLQ-g7r9vU9DvAWpjhXBLckw_3n3KWrf78L8/edit#slide=id.g290ff1d21f2_1_2898) that will walk you through the following topics related to UGC.
+
 - First we review where one might see UGC in the wild
 - Then, in the context of a food delivery app, we discuss ways Cloudinary can help with the management of said UGC
 
@@ -114,19 +114,13 @@ There is an accompanying slide deck that walks us all through the steps.
 - Storage and Folders
 - Analysis on Upload
   - Moderation
-  - AI Content Analysis
+  - AI Content Analysis - Tagging, Cropping
   - Quality Analysis
 ### Further Education and Assistance
 - Media Flows
 - Cloudinary Academy and Community
 
-### Related Helpful Cloudinary Documentation and Tutorials:
-- [upload presets docs:](https://cloudinary.com/documentation/upload_presets)
-- [upload presets video tutorial:](https://cloudinary.com/documentation/create_upload_preset_tutorial) - walks you through the steps of creating signed upload presets using the Admin API.
-- [upload programmatically:](https://cloudinary.com/documentation/upload_programmatically_tutorial) - covers Node.js setup and upload to your Cloudinary cloud.
-
-### Explanation of directories in this repository
-This repository was built as an educational resource for Cloudinary customers interested in utilizing Cloudinary's technology to optimize their UGC management. 
+### Directory of File Locations:
 
 - Incoming Transformations:
   - ```transformations/incoming-transformations.js```
@@ -148,10 +142,16 @@ This repository was built as an educational resource for Cloudinary customers in
   - Video Moderation
     - ```moderation/video-moderation/upload-auth-expect-approval.js```
     - ```moderation/video-moderation/upload-auth-expect-reject.js```
-  - AI Content Analysis
+  - AI Content Analysis - Tagging, cropping, quality score, eval parameter
     - ```content-analysis/gravity-detection-cropping.js```
     - ```content-analysis/upload-with-tags.js```
     - ```content-analysis/upload-with-quality-analysis.js```
+
+
+### Related Helpful Cloudinary Documentation and Tutorials:
+- [upload presets docs:](https://cloudinary.com/documentation/upload_presets)
+- [upload presets video tutorial:](https://cloudinary.com/documentation/create_upload_preset_tutorial) - walks you through the steps of creating signed upload presets using the Admin API.
+- [upload programmatically:](https://cloudinary.com/documentation/upload_programmatically_tutorial) - covers Node.js setup and upload to your Cloudinary cloud.
 
 
 ### Image and Video Asset Credits 
