@@ -150,8 +150,13 @@ There is an accompanying [slide deck](https://docs.google.com/presentation/d/1nE
 
 ### Related Helpful Cloudinary Documentation and Tutorials:
 - [upload presets docs:](https://cloudinary.com/documentation/upload_presets)
-- [upload presets video tutorial:](https://cloudinary.com/documentation/create_upload_preset_tutorial) - walks you through the steps of creating signed upload presets using the Admin API.
-- [upload programmatically:](https://cloudinary.com/documentation/upload_programmatically_tutorial) - covers Node.js setup and upload to your Cloudinary cloud.
+- [AI Content Analysis Docs:](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon)
+- [Supported content-aware detection models:](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon#supported_content_aware_detection_models)
+- [Object detection demo app:](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon#object_detection_demo)
+- [Resizing and cropping interactive demo:](https://cloudinary.com/documentation/resizing_and_cropping#resizing_and_cropping_interactive_demo)
+- [Upload Presets Video Tutorial:](https://cloudinary.com/documentation/create_upload_preset_tutorial) - walks you through the steps of creating signed upload presets using the Admin API.
+- [Upload Programmatically Video Tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) - covers Node.js setup and upload to your Cloudinary cloud.
+- [Evaluating and Moderating Upload Parameters - eval:](https://cloudinary.com/documentation/analysis_on_upload#evaluating_and_modifying_upload_parameters)
 
 
 ### Image and Video Asset Credits 
