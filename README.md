@@ -157,6 +157,7 @@ There is an accompanying [slide deck](https://docs.google.com/presentation/d/1nE
 - [Upload Presets Video Tutorial:](https://cloudinary.com/documentation/create_upload_preset_tutorial) - walks you through the steps of creating signed upload presets using the Admin API.
 - [Upload Programmatically Video Tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) - covers Node.js setup and upload to your Cloudinary cloud.
 - [Evaluating and Moderating Upload Parameters - eval:](https://cloudinary.com/documentation/analysis_on_upload#evaluating_and_modifying_upload_parameters)
+- [Add-Ons](https://console.cloudinary.com/settings/addons)
 
 
 ### Image and Video Asset Credits 
