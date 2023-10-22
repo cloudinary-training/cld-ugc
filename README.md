@@ -27,7 +27,7 @@ $ npm --version
 9.8.1
 ```
 
-### Choose an IDE or Use Text Editor:
+### Choose an IDE or text editor:
 
 - [Visual Studio Code](https://code.visualstudio.com/download) (Recommended)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
