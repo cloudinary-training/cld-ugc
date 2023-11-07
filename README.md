@@ -162,8 +162,6 @@ There is an accompanying [slide deck](https://docs.google.com/presentation/d/1nE
 
 ### Image and Video Asset Credits 
 
-- person-with-glasses.jpg: [Photo by Daniel Xavier](https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/)
-
 - janedoe.jpg: [Photo by Andrea Piacquadio from Pexels](https://www.pexels.com/photo/woman-in-collared-shirt-774909/)
 
 - baby.jpg: [Photo by Ganimat Pashazade from Pexels](https://www.pexels.com/photo/baby-in-white-and-blue-jacket-lying-on-snow-covered-ground-8882288/)
