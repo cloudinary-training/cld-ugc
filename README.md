@@ -148,7 +148,7 @@ There is an accompanying [slide deck](https://docs.google.com/presentation/d/1nE
     - ```content-analysis/upload-with-quality-analysis.js```
 
 
-### Related Helpful Cloudinary Documentation and Tutorials:
+### Helpful Cloudinary Docs, Demos, and Tutorials:
 - [Upload Presets Docs](https://cloudinary.com/documentation/upload_presets)
 - [AI Content Analysis Docs](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon)
 - [Supported content-aware detection models](https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon#supported_content_aware_detection_models)
@@ -156,6 +156,7 @@ There is an accompanying [slide deck](https://docs.google.com/presentation/d/1nE
 - [Resizing and cropping interactive demo](https://cloudinary.com/documentation/resizing_and_cropping#resizing_and_cropping_interactive_demo)
 - [Upload Presets Video Tutorial](https://cloudinary.com/documentation/create_upload_preset_tutorial) - walks you through the steps of creating signed upload presets using the Admin API.
 - [Upload Programmatically Video Tutorial](https://cloudinary.com/documentation/upload_programmatically_tutorial) - covers Node.js setup and upload to your Cloudinary cloud.
+- [Upload Widget Video Tutorial](https://cloudinary.com/documentation/upload_widget_tutorial) - how to get started with Cloudinary's Upload Widget
 - [Documentation - Evaluating and Moderating Upload Parameters - eval](https://cloudinary.com/documentation/analysis_on_upload#evaluating_and_modifying_upload_parameters)
 - [Add-Ons](https://console.cloudinary.com/settings/addons)
 
