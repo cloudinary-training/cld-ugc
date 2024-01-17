@@ -6,7 +6,7 @@ cloudinary.uploader
   .upload('./assets/model-with-bangs.jpg', {
     public_id: 'fashionista',
     detection: 'cld-fashion',
-    auto_tagging: '0.6',  //default 0.5
+    auto_tagging: '0.9',  //default 0.5
     overwrite: true,
     invalidate: true,
   })

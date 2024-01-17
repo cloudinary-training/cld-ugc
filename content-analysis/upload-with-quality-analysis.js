@@ -14,11 +14,10 @@ cloudinary.uploader
   { quality_analysis: true})
 .then(result=>console.log(result));
 
-
-// cloudinary.uploader
-// .upload("./assets/blurry-sneakers.jpg",
-//   { quality_analysis: true})
-// .then(result=>console.log(result));
+cloudinary.uploader
+.upload("./assets/blurry-sneakers.jpg",
+  { quality_analysis: true})
+.then(result=>console.log(result));
 
 
 // DOCS: https://cloudinary.com/documentation/analysis_on_upload#evaluating_and_modifying_upload_parameters
@@ -35,7 +34,7 @@ cloudinary.uploader
 // cloudinary.uploader
 // .upload("./assets/headshot-blurry.jpg",
 //   { quality_analysis: true,
-//     eval: "if (resource_info.quality_analysis.focus < 1) { upload_options['tags'] = 'blurry'}" })
+//     eval: "if (resource_info.quality_analysis.pixel_score < 1) { upload_options['tags'] = 'blurry'}" })
 // .then(result=>console.log(result));
 
 
