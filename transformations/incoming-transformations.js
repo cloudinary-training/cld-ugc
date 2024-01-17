@@ -7,6 +7,3 @@ cloudinary.uploader
   { width: 500, height: 500, crop: "thumb", radius: "max", format: "png"})
   .then(uploadResult => console.log(uploadResult))
   .catch(error => console.error(error));
-
-
-
