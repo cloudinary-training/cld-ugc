@@ -15,8 +15,8 @@ cloudinary.api.create_upload_preset({
         width: 200,
         height: 200,
         crop: "thumb",
-        gravity: "face",  // this will center the face.
-                          //another common choice here would be to apply radius: "max" to give the asset rounded corners, which is possible because we've created a 1:1 aspect ratio
+        gravity: "face", // this will center the face.
+        radius: "max" // a common choice would be to apply radius: "max" to give the asset rounded corners, which is possible because we've created a 1:1 aspect ratio
       },
     ],
   })
